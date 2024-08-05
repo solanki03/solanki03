@@ -1,34 +1,70 @@
-<h1 align="center">Hi 👋, I'm Solanki Singha</h1>
-<h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h3 align="center">
+	Hey, I'm Solanki Singha!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+</h3> <a href="https://github.com/solanki03/solanki03"> </a>
+<br/>
+<!-- Typing svg by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Tech+Enthusiast;Java+%7C+Web+Developer;Always+Leaning+New+Things" alt="Typing SVG" /></a>
+</p>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=solanki03&icon=8&color=5)](https://visitcount.itsvg.in)
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWczZzNjamdoOWpydGEwMGJjb3FiMmlqMGs2Y2dvb2xhaGhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"  />
 
-### 💫 About Me:
-- 🎓 I am currently in my second year of studying for a **BCA** degree.
+<h2> About Me 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0NzBveDV0OGhtc2M3NHB1NWE1bWwxNzJhM3Z5Y3ZjZmZvNnk0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/39zPojHrU3l8tSY8b6/giphy-downsized-large.gif" width="50">
+</h2>
 
-- 🌱 I’m currently learning **Front-end development**.
-
-- 👀 I’m interested in **Full-stack web Development**.
-
+- 🎓 I'm a final year **BCA** student.
+- 🌱 I’m a **Front-end development**.
+- 👀 I’m interested in Full-stack Development and Programming.
+- 💡 I am currently focusing on **Java** and **MERN Stack Development**.
 - 📚 I'm looking to enhance my knowledge by learning new skills and growing in the tech field.
 
+<br>
+<h2> Tech Stack 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdlYnh4cHU3emJvMHp6eHNvMjJmZTUweDc4NDR5cGp2OTFjNTkybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjtJqIbbwkfkoEDHE0/giphy.gif" width="50">
+</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,python,mysql" />
+  </a>
+</p>
+<br>
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
+<h2> Tools 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xxMHE1ZHZ4eDBiMjB1MWZ6MzZuMGx5dHYyZHVpZjZzd3J6dGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HiIBVUzpjYbEs985mp/giphy-downsized-large.gif" width="50">
+</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" />
+  </a>
+</p>
+<br>
 
+<h2> Github Stats 
+<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqZDNxamZscWcwZGV3dDI3ZTR3eDR1OWluM2V1MWRjY3Q5dWRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">
+</h2>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=solanki03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=solanki03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solanki03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=solanki03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=solanki03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br>
 
+<div>
+<h3 align="center">My contribution graph!
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l1MzN3dGlsd2wycTV3ZGswc2o3bWRlMWp6Mnd2OWFrcmNiaXRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MzEvpKwyuz1LtMKmHp/giphy-downsized-large.gif" width="60">
+</h3>
+<div align="center">
+  
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=solanki03&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+</div>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- gifs and stickers from: https://giphy.com/ -->
