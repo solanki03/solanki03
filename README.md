@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
 	Hey, I'm Solanki Singha!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
-</h3> <a href="https://github.com/solanki03/solanki03"> </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1> <a href="https://github.com/solanki03/solanki03"> </a>
 <br/>
 <!-- Typing svg by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -10,11 +10,8 @@
 
 ---
 
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWczZzNjamdoOWpydGEwMGJjb3FiMmlqMGs2Y2dvb2xhaGhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"  />
-
-<h2> About Me 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR0NzBveDV0OGhtc2M3NHB1NWE1bWwxNzJhM3Z5Y3ZjZmZvNnk0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/39zPojHrU3l8tSY8b6/giphy-downsized-large.gif" width="50">
-</h2>
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWczZzNjamdoOWpydGEwMGJjb3FiMmlqMGs2Y2dvb2xhaGhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"  />  
+ 
 
 - 🎓 I'm a final year **BCA** student.
 - 🌱 I’m a **Front-end development**.
@@ -23,10 +20,11 @@
 - 📚 I'm looking to enhance my knowledge by learning new skills and growing in the tech field.
 
 <br>
-<h2> Tech Stack 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdlYnh4cHU3emJvMHp6eHNvMjJmZTUweDc4NDR5cGp2OTFjNTkybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjtJqIbbwkfkoEDHE0/giphy.gif" width="50">
-</h2>
-
+<h1> 
+Tech Stack 
+<img src="https://octodex.github.com/images/stormtroopocat.png" width="60">
+</h1>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,python,mysql" />
@@ -34,9 +32,10 @@
 </p>
 <br>
 
-<h2> Tools 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xxMHE1ZHZ4eDBiMjB1MWZ6MzZuMGx5dHYyZHVpZjZzd3J6dGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HiIBVUzpjYbEs985mp/giphy-downsized-large.gif" width="50">
-</h2>
+<h1>  
+<img src="https://octodex.github.com/images/jetpacktocat.png" width="70"> 
+Tools 
+</h1> <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify" />
@@ -44,9 +43,9 @@
 </p>
 <br>
 
-<h2> Github Stats 
-<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqZDNxamZscWcwZGV3dDI3ZTR3eDR1OWluM2V1MWRjY3Q5dWRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">
-</h2>
+<h1> Github Stats 
+<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlqZDNxamZscWcwZGV3dDI3ZTR3eDR1OWluM2V1MWRjY3Q5dWRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=solanki03&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -56,9 +55,11 @@
 <br>
 
 <div>
-<h3 align="center">My contribution graph!
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l1MzN3dGlsd2wycTV3ZGswc2o3bWRlMWp6Mnd2OWFrcmNiaXRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MzEvpKwyuz1LtMKmHp/giphy-downsized-large.gif" width="60">
-</h3>
+<h2 align="center">
+<img src="https://octodex.github.com/images/pythocat.png" width="70">
+My contribution graph!
+<img src="https://octodex.github.com/images/pythocat.png" width="70">
+</h2>
 <div align="center">
   
 ![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
