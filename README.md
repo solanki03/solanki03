@@ -16,7 +16,6 @@
 - 🎓 I'm a final year **BCA** student.
 - 🌱 I’m a **Front-end development**.
 - 👀 I’m interested in Full-stack Development and Programming.
-- 💡 I am currently focusing on **Java** and **MERN Stack Development**.
 - 📚 I'm looking to enhance my knowledge by learning new skills and growing in the tech field.
 
 <br>
