@@ -8,14 +8,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Tech+Enthusiast;Java+%7C+Web+Developer;Always+Leaning+New+Things" alt="Typing SVG" /></a>
 </p>
 
----
-
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWczZzNjamdoOWpydGEwMGJjb3FiMmlqMGs2Y2dvb2xhaGhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"  />  
+---  
  
 
 - 🎓 I'm a final year **BCA** student.
 - 🌱 I’m a **Front-end developer**.
-- 👀 I’m interested in Full-stack Web Development.
+- 👀 I’m interested in **Full-stack Web Development**.
 
 <br>
 <h1> 
