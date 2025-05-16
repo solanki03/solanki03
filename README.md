@@ -14,9 +14,8 @@
  
 
 - 🎓 I'm a final year **BCA** student.
-- 🌱 I’m a **Front-end development**.
-- 👀 I’m interested in Full-stack Development and Programming.
-- 📚 I'm looking to enhance my knowledge by learning new skills and growing in the tech field.
+- 🌱 I’m a **Front-end developer**.
+- 👀 I’m interested in Full-stack Web Development.
 
 <br>
 <h1> 
